@@ -7,3 +7,10 @@ cdn-b100.xn--b6gac.eu.org
 cdn.anycast.eu.org
 proxyip.multacom.fxxk.dedyn.io
 proxyip.vultr.fxxk.dedyn.io
+eset.com
+sourceforge.net
+dash.cloudflare.com
+telewebion.com
+www.providesupport.com
+datacenterknowledge.com
+vl31.rnd.biz.id
